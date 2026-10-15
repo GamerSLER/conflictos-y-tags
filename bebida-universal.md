@@ -1,9 +1,4 @@
-  GNU nano 8.4                                            bebida-universal.md *                                                    
 | Bebida | Pais | User |
 |--------|------|------|
-| Chicha morada | Perú | Stephano|
- 
-
-
-
-
+| Chicha morada | Perú | Stephano |
+| Malabamba | África central | Leonor |
